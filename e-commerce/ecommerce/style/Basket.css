@@ -1,0 +1,29 @@
+.basket-products {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  margin-left: 15%;
+
+  padding-top: 15px;
+}
+.basket-products h3 {
+  color: rgb(149, 62, 231);
+  text-align: left;
+}
+.card-product-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  padding-left: 65px;
+  padding-top: 15px;
+}
+.delete-btn {
+  width: 134px;
+  height: 45px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(246, 114, 114);
+}
+.delete-btn:hover {
+  background-color: rgb(242, 70, 70);
+}

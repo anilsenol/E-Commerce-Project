@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  padding-left: 200px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.input-search {
+  margin-left: 170px;
+}
+.icons {
+  width: 25px;
+  font-size: 50px;
+}
+.links {
+  color: white;
+  margin-left: 45px;
+}
+.contact,
+.home-page {
+  padding-left: 15px;
+  text-decoration: none;
+  color: black;
+}
